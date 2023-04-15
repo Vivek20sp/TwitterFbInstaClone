@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832479333865",
+    "project_id": "twitterfbinstaclone-b4720",
+    "storage_bucket": "twitterfbinstaclone-b4720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832479333865:android:ab7282692a5eb51e974f78",
+        "android_client_info": {
+          "package_name": "com.example.twitterfbinstaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832479333865-rf4qvills4mjvdqn7o8tc984aks91hg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twitterfbinstaclone",
+            "certificate_hash": "f0a50116a220fc81c870df8228b8b89b1099e86e"
+          }
+        },
+        {
+          "client_id": "832479333865-pdp5vvqrkvmse0qvv5t5iftie5c63hr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUPKa1IlHo-Ccw9vJhWKIZYpkfxJuaUYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832479333865-pdp5vvqrkvmse0qvv5t5iftie5c63hr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
